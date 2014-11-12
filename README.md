@@ -28,9 +28,13 @@
   * http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
   * http://progrium.com/localtunnel
 * Dropbox
-* Other
+* Media
   * `sudo apt-get -y install ubuntu-restricted-extras vlc qbittorrent`
   * `sudo apt-get -y remove rhythmbox`
+  * `sudo add-apt-repository ppa:me-davidsansome/clementine`
+  * `sudo apt-get install clementine`
  
+* Other
+
 Optional
 * `sudo apt-get -y install keepass2 kinfocenter`
